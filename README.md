@@ -244,7 +244,7 @@
 <body class="bg-slate-50 dark:bg-slate-900 text-slate-800 dark:text-slate-100 antialiased selection:bg-nature-500 selection:text-white transition-colors duration-500">
 
     <!-- App Container -->
-    <div id="app" class="max-w-7xl mx-auto p-4 sm:p-6 lg:p-8 min-h-screen flex flex-col gap-6 pb-24 lg:pb-8">
+    <div id="app" class="w-full mx-auto p-4 sm:p-6 lg:p-8 min-h-screen flex flex-col gap-6 pb-24 lg:pb-8">
         
         <!-- Header Section -->
         <header class="flex flex-col md:flex-row justify-between items-center gap-4 animate-fade-in relative z-40">
