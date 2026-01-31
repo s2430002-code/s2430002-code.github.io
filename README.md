@@ -805,7 +805,7 @@
         // Dictionaries
         const Translations = {
             en: {
-                app_title: "FreshKeep",
+                app_title: "FreshKeep - By Team 8",
                 total_inventory: "Total Inventory",
                 good_standing: "In Good Standing",
                 action_required: "Action Required",
@@ -868,7 +868,7 @@
                 your_rank: "Your Rank"
             },
             zh: {
-                app_title: "FreshKeep - 鮮度管家",
+                app_title: "FreshKeep - 鮮度管家 - By Team 8",
                 total_inventory: "庫存總數",
                 good_standing: "狀態良好",
                 action_required: "需要注意",
